@@ -1,2 +1,3 @@
 ﻿# HospitalManagementSystem
-![hospitalsystem](https://github.com/user-attachments/assets/2adb19b7-4254-410a-b7b2-e7349d9e9f55)
+![hospitalsystem](https://github.com/user-attachments/assets/1e795d33-8d84-4a19-b5d0-d850b1092c37)
+
